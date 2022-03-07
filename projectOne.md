@@ -59,3 +59,8 @@ or
  ```
  to confirm if our new web server is working correctly. You should some HTLM codes on your terminal as an indication that the Apache web server is working okay.
 
+You can also check the result on a browser by going to:
+
+```
+http://<Public-IP-Address>:80
+```
